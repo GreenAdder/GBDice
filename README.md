@@ -13,7 +13,7 @@ List of files in this repository:
 * gbdice_windows.zip - An executable Windows binary for Ghostbusters: A Frightfully Cheerful Dice Roller. If you're a Windows user and want to use the dice roller without compiling anything, just unzip this into a folder and run GBDICE.EXE.
 
 NOTES:
-If you want to run this dice roller in a browser without downloading anything, point your browser at gbdice.neocities.org. On a PC, use the arrow keys along with Z and X on your keyboard. On mobile, Javacript by GitHub user headjump (https://github.com/headjump/pico8_html_template) should provide a directional pad and virtual buttons on-screen.
+If you want to run this dice roller in a browser without downloading anything, point your browser at https://gbdice.neocities.org. On a PC, use the arrow keys along with Z and X on your keyboard. On mobile, Javacript by GitHub user headjump (https://github.com/headjump/pico8_html_template) should provide a directional pad and virtual buttons on-screen.
 
 For the time being, everything here is released under the DBAD license (http://www.dbad-license.org/).
 
